@@ -17,6 +17,11 @@ LongTo CLI 是一个开源的 AI 助手，专为开发者和中文用户打造�
 
 ### 快速安装
 
+- 前置条件
+- 确保您已安装Node.js 20版本或更高版本。
+
+curl -qL https://www.npmjs.com/install.sh | sh
+
 #### 使用 npm 全局安装
 
 ```bash
