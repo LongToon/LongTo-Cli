@@ -1,4 +1,6 @@
-<img width="935" height="317" alt="1760796620327" src="https://github.com/user-attachments/assets/9fe218c5-b285-4601-8350-5703e4773c13" />
+<img width="955" height="340" alt="1760841051177" src="https://github.com/user-attachments/assets/c4664a9f-d234-4df2-8bb5-5ae40ba4d2fa" />
+
+
 LongTo CLI 是一个开源的 AI 助手，专为开发者和中文用户打造。从Gemini CLI改进而来，它直接在您的终端中提供强大的多模型 AI 能力，包括 GLM、Qwen 和其他主流模型，为您提供最直接的 AI 辅助开发体验。
 
 ## 🚀 为什么选择 LongTo CLI？
@@ -15,16 +17,10 @@ LongTo CLI 是一个开源的 AI 助手，专为开发者和中文用户打造�
 
 ### 快速安装
 
-#### 使用 npx 直接运行（无需安装）
-
-```bash
-npx https://github.com/LongToon/LongTo
-```
-
 #### 使用 npm 全局安装
 
 ```bash
-npm install -g @LongTo/LongTo-Cli
+npm install -g @longtoon/longto
 ```
 
 #### 系统要求
@@ -105,11 +101,4 @@ longto
 ## 📄 法律信息
 
 - **许可证**：[Apache 许可证 2.0](LICENSE)
-- **服务条款**：[条款与隐私](./docs/tos-privacy.md)
-- **安全**：[安全政策](SECURITY.md)
 
----
-
-<p align="center">
-  由 LongTo 团队和开源社区用 ❤️ 构建
-</p>
